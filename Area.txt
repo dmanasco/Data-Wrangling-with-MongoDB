@@ -1,0 +1,3 @@
+For this project I chose the area surrounding Disney World.
+My map location can be found at https://www.openstreetmap.org/export#map=13/28.3826/-81.5303 
+I chose the area because I am a big disney fan. I thought it would interesting to see what OpenStreetMaps had for the area. 
