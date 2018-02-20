@@ -1,0 +1,7 @@
+For this project I referenced the following pages:
+https://github.com/wonjunee/data-wrangling-mongodb
+https://devpost.com/software/data-wrangling-mongodb
+https://docs.mongodb.com/manual/
+http://api.mongodb.com/python/current/tutorial.html
+https://www.openstreetmap.org/export#map=13/28.3826/-81.
+https://stackoverflow.com/questions/20078816/replace-non-ascii-characters-with-a-single-space
